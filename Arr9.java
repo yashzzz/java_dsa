@@ -6,6 +6,7 @@ public class Arr9 {
             for(int j=i;j<number.length;j++){
                 for(int k=i;k<=j;k++){
                     System.out.print(number[k]+ " ");
+                    
                 }System.out.println();
             }System.out.println();
         }
