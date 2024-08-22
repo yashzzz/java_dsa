@@ -6,6 +6,9 @@ public class opps2 {
         st1.rollno= 1221333;
         st1.show();
         st1.alldetails();
+        opps1 st2 = new opps1(2, "delhi" , "sukhi");
+        st2.alldetails();
+         
 
     }
 }
