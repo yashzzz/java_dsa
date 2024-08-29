@@ -4,7 +4,7 @@ public class pattern {
         System.out.println("****");
         System.out.println("****");
         System.out.println("**");
-        system.out.println("*");
+        System.out.println("*");
     }
     
 }
